@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iOPKmbLpSNX/cmLCqL+TH45/wMva72WR5udyns2haRf8FPaJp95AmjOAIZyOnn7E5f9J4XDnLZK6W1OdzQVgtg==",
+  "dgSpecHash": "R98YH0nNTDFsmHPtEiWKwAWUuh3WIaYQYX9mp/zjFBCMx32ItUZaElLR5zBJrX+hInA6SfsKmnzBkjCSD2cUDQ==",
   "success": true,
-  "projectFilePath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp\\HrdApp.csproj",
+  "projectFilePath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\warda\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\warda\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

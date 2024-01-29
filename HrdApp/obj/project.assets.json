@@ -2483,11 +2483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp\\HrdApp.csproj",
+      "projectUniqueName": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp.csproj",
       "projectName": "HrdApp",
-      "projectPath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp\\HrdApp.csproj",
+      "projectPath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp.csproj",
       "packagesPath": "C:\\Users\\warda\\.nuget\\packages\\",
-      "outputPath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\HrdApp\\obj\\",
+      "outputPath": "D:\\Radya labs\\Assesment\\2024\\HrdApp\\HrdApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

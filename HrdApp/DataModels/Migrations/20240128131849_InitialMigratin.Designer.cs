@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace HrdApp.DataModels.Migrations
 {
-    [DbContext(typeof(ApplicationDbContex))]
+    [DbContext(typeof(HrdDbContex))]
     [Migration("20240128131849_InitialMigratin")]
     partial class InitialMigratin
     {
